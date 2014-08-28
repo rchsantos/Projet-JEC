@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:VistaSansOTCE-Book
+FamilyName:Vista Sans OTCE
+StyleName:Book
+MenuName:Vista Sans OTCE Book
+StyleBits:0
+WeightClass:390
+WidthClass:5
+AngleClass:0
+FullName:Vista Sans OTCE Book
+WritingScript:Roman
+OutlineFileName:\VistaSansOTCE-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:93044
+FileModTime:1205946412
+NameArray:0,Mac,4,Vista Sans OTCE Book
+NameArray:0,Win,1,Vista Sans OTCE Book
+NameArray:0,Win,16,Vista Sans OTCE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:VistaSlabOTCE-Book
+FamilyName:Vista Slab OTCE
+StyleName:Book
+MenuName:Vista Slab OTCE Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Vista Slab OTCE Book
+WritingScript:Roman
+OutlineFileName:\VistaSlabOTCE-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+FileLength:81920
+FileModTime:1228671540
+NameArray:0,Mac,4,Vista Slab OTCE Book
+NameArray:0,Win,1,Vista Slab OTCE Book
+NameArray:0,Win,16,Vista Slab OTCE
+%EndFont
+

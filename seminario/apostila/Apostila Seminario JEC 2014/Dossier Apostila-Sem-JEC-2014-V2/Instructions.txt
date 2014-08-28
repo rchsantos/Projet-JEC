@@ -2,7 +2,7 @@ INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVI
 
 NOM DE LA COMPOSITION : Apostila-Sem-JEC-2014-V2.indd
 
-DATE D'ASSEMBLAGE : 28.08.14 12:47
+DATE D'ASSEMBLAGE : 28.08.14 14:04
 Date de création : 28.08.14
 Date de modification : 28.08.14
 
@@ -31,14 +31,16 @@ Modules externes 0
 Objets non opaques :Page1, 2, 5
 
 POLICES
-6 Police(s) utilisée(s); 0 Manquant(e)(s), 1 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+8 Police(s) utilisée(s); 0 Manquant(e)(s), 3 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
 
 Polices assemblées
 - Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
 - Nom : OstrichSans-Heavy; Type : Type 1, Etat : Incorporé(e)(s)
 - Nom : PTSans-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Sansation-Bold; Type : TrueType, Etat : Incorporé(e)(s)
 - Nom : Sansation-Bold; Type : TrueType, Etat : OK
 - Nom : Sansation-Light; Type : TrueType, Etat : OK
+- Nom : Sansation-Regular; Type : ???, Etat : Incorporé(e)(s)
 - Nom : Sansation-Regular; Type : TrueType, Etat : OK
 
 
@@ -84,9 +86,9 @@ Symétrie : Désactivée
 
 LISTE DES FICHIERS DE L'ENVOI
 
-1. Apostila-Sem-JEC-2014-V2.indd; type : Composition Adobe InDesign; taille : 2584K
-2. Apostila-Sem-JEC-2014-V2.idml; type : Document InDesign Markup; taille : 127K
-3. Apostila-Sem-JEC-2014-V2.pdf; type : Document Adobe Acrobat; taille : 722K
+1. Apostila-Sem-JEC-2014-V2.indd; type : Composition Adobe InDesign; taille : 2636K
+2. Apostila-Sem-JEC-2014-V2.idml; type : Document InDesign Markup; taille : 145K
+3. Apostila-Sem-JEC-2014-V2.pdf; type : Document Adobe Acrobat; taille : 703K
 4. MinionPro-Regular.otf; type : Fichier de polices; taille : 213K
 5. PTS55F.ttf; type : Fichier de polices; taille : 516K
 6. Sansation_Bold.ttf; type : Fichier de polices; taille : 76K
