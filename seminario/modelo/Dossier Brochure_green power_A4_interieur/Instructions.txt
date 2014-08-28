@@ -1,0 +1,86 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : Brochure_green power_A4_interieur.indd
+
+DATE D'ASSEMBLAGE : 28.08.14 13:15
+Date de création : 28.08.14
+Date de modification : 28.08.14
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Sans
+
+POLICES
+3 Police(s) utilisée(s); 3 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : Vista Sans OTCE Book; Type : ???, Etat : Manquant(e)(s)
+- Nom : Vista Sans OTCE Medium; Type : ???, Etat : Manquant(e)(s)
+- Nom : Vista Slab OTCE Book; Type : ???, Etat : Manquant(e)(s)
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 15.000; Lignes/pouce : 71.000
+- Nom et type : Magenta quadri; Angle : 75.000; Lignes/pouce : 71.000
+- Nom et type : Jaune quadri; Angle : 0.000; Lignes/pouce : 71.000
+- Nom et type : Noir quadri; Angle : 45.000; Lignes/pouce : 71.000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 7 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible(s)
+Images : 0 Incorporé(e)(s), 0 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : Canon CLC-iR C3200-C1 PS Ver1.0, (CLC3200_Impression)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Oui
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : Ajuster à la page
+Position de la page : Centrer
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : CMJN composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Tous
+Substitution d'image OPI/DCS : Non
+Format de page : A4
+Dimensions du papier : 297.039 mm x 420.158 mm
+Orientation : Paysage
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. Brochure_green power_A4_interieur.indd; type : Composition Adobe InDesign; taille : 4312K
+2. Brochure_green power_A4_interieur.idml; type : Document InDesign Markup; taille : 185K
+3. Brochure_green power_A4_interieur.pdf; type : Document Adobe Acrobat; taille : 1904K

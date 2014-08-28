@@ -1,0 +1,112 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1403256287
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Regular
+FamilyName:PT Sans
+StyleName:Regular
+MenuName:PT Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PT Sans
+WritingScript:Roman
+OutlineFileName:\PTS55F.ttf
+DataFormat:sfntData
+FileLength:528828
+FileModTime:312768000
+NameArray:0,Mac,18,PT Sans
+NameArray:0,Mac,4,PT Sans
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sansation-Bold
+FamilyName:Sansation
+StyleName:Bold
+MenuName:Sansation
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sansation Bold
+WritingScript:Roman
+OutlineFileName:\Sansation_Bold.ttf
+DataFormat:sfntData
+FileLength:78740
+FileModTime:1351702656
+NameArray:0,Mac,4,Sansation Bold
+NameArray:0,Win,1,Sansation
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sansation-Light
+FamilyName:Sansation Light
+StyleName:Regular
+MenuName:Sansation Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Sansation Light
+WritingScript:Roman
+OutlineFileName:\Sansation_Light.ttf
+DataFormat:sfntData
+FileLength:78784
+FileModTime:1351702634
+NameArray:0,Mac,4,Sansation Light
+NameArray:0,Win,1,Sansation Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sansation-Regular
+FamilyName:Sansation
+StyleName:Regular
+MenuName:Sansation
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sansation Regular
+WritingScript:Roman
+OutlineFileName:\Sansation_Regular.ttf
+DataFormat:sfntData
+FileLength:78464
+FileModTime:1351702750
+NameArray:0,Mac,4,Sansation Regular
+NameArray:0,Win,1,Sansation
+%EndFont
+

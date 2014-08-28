@@ -1,0 +1,94 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : Apostila-Sem-JEC-2014-V2.indd
+
+DATE D'ASSEMBLAGE : 28.08.14 12:47
+Date de création : 28.08.14
+Date de modification : 28.08.14
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Page1, 2, 5
+
+POLICES
+6 Police(s) utilisée(s); 0 Manquant(e)(s), 1 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : OstrichSans-Heavy; Type : Type 1, Etat : Incorporé(e)(s)
+- Nom : PTSans-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Sansation-Bold; Type : TrueType, Etat : OK
+- Nom : Sansation-Light; Type : TrueType, Etat : OK
+- Nom : Sansation-Regular; Type : TrueType, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 75.000; Lignes/pouce : 70.000
+- Nom et type : Magenta quadri; Angle : 15.000; Lignes/pouce : 70.000
+- Nom et type : Jaune quadri; Angle : 0.000; Lignes/pouce : 70.000
+- Nom et type : Noir quadri; Angle : 45.000; Lignes/pouce : 70.000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 4 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible(s)
+Images : 0 Incorporé(e)(s), 1 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : Generic PostScript Printer, (192.168.2.50)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : CMJN composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : A4
+Dimensions du papier : 209.903 mm x 297.039 mm
+Orientation : Portrait
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. Apostila-Sem-JEC-2014-V2.indd; type : Composition Adobe InDesign; taille : 2584K
+2. Apostila-Sem-JEC-2014-V2.idml; type : Document InDesign Markup; taille : 127K
+3. Apostila-Sem-JEC-2014-V2.pdf; type : Document Adobe Acrobat; taille : 722K
+4. MinionPro-Regular.otf; type : Fichier de polices; taille : 213K
+5. PTS55F.ttf; type : Fichier de polices; taille : 516K
+6. Sansation_Bold.ttf; type : Fichier de polices; taille : 76K
+7. Sansation_Light.ttf; type : Fichier de polices; taille : 76K
+8. Sansation_Regular.ttf; type : Fichier de polices; taille : 76K
